@@ -5,7 +5,7 @@ Atlas Adventure is an alexa skill.
 
 It resembles the common word building game atlas.
 Saying name of cities in turns, \
-starting with last letter of previously said city.  It has got country mode, lifelines, and spelling options. \
+starting with last letter of previously said city.  It has got country mode, lifelines, and spelling options. 
 You can find it live <a href="https://www.amazon.com/Jatin-Rohilla-Atlas-Adventure/dp/B079R8DTBV/">on amazon store</a> .
 
 

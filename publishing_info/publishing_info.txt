@@ -1,0 +1,41 @@
+# Publishing Information
+
+## short skill description 
+Atlas adventure is a word building game, where you enrich your vocab with city names. You play with alexa, ask for spellings, use lifelines, and more.
+
+
+## Full skill discription
+
+Atlas adventure is a word building game.  
+
+You start by saying a place name. Alexa then speaks a place name starting with the last letter of your place. Then it's your turn, and this goes on.
+
+The Game has two modes. World mode and country mode.
+Choose a mode by saying, "world mode" / the country name, like "US"
+
+You can ask for spellings with "spell it" / "tell me more".
+You can ask for lifelines with "lifeline" 
+You can even specify the place location when in doubt, like "delhi in US"
+
+The game is aimed to improve your city vocab, and for fun.
+
+
+## example phrases
+
+Alexa, open Atlas Adventure
+spell it
+i want to use a lifeline
+
+
+## Keywords
+atlas,adventure,cities,places,word,building
+
+## Testing Instructions
+
+Invoke the skill    -  "Alexa, open atlas adventure".
+Choose a mode   - "world mode"  /  "India"  / "US" / or any other country name
+Say a place name -  name of any city from world / chose country 
+ask for spelling - "spell it"  /  "tell me more" 
+ask for lifeline - "lifeline"
+accept defeat - "i accept my defeat"
+
